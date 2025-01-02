@@ -7,7 +7,6 @@ toolchain go1.22.5
 require (
 	github.com/crowdsecurity/crowdsec v1.6.2
 	github.com/crowdsecurity/go-cs-bouncer v0.0.8
-	github.com/go-routeros/routeros/v3 v3.0.0
 	github.com/rs/zerolog v1.29.1
 	github.com/spf13/viper v1.15.0
 )
@@ -33,6 +32,8 @@ require (
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/crowdsecurity/go-cs-lib v0.0.11 // indirect
 	github.com/fatih/color v1.16.0 // indirect
+	github.com/go-routeros/routeros v0.0.0-20210123142807-2a44d57c6730 // indirect
+	github.com/go-routeros/routeros/v3 v3.0.0 // indirect
 	github.com/goccy/go-yaml v1.11.0 // indirect
 	github.com/golang-jwt/jwt/v4 v4.5.0 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
