@@ -7,7 +7,7 @@ toolchain go1.22.5
 require (
 	github.com/crowdsecurity/crowdsec v1.6.2
 	github.com/crowdsecurity/go-cs-bouncer v0.0.8
-	github.com/go-routeros/routeros v3
+	github.com/go-routeros/routeros/v3 v3.0.0
 	github.com/rs/zerolog v1.29.1
 	github.com/spf13/viper v1.15.0
 )
