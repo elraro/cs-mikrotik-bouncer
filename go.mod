@@ -1,4 +1,4 @@
-module github.com/funkolab/cs-mikrotik-bouncer
+module github.com/elraro/cs-mikrotik-bouncer
 
 go 1.22
 
