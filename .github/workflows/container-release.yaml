@@ -43,7 +43,7 @@ jobs:
       
       - name: Build and Push to GHCR with ko
         env:
-          KO_DOCKER_REPO: ghcr.io/funkolab
+          KO_DOCKER_REPO: ghcr.io/elraro
           TAGS: ${{ steps.meta.outputs.tags }}
           LABELS: ${{ steps.meta.outputs.labels }}
           PLATFORMS: linux/amd64,linux/arm64,linux/arm
